@@ -9,4 +9,6 @@
 
 压缩完成后，会在所选择的文件夹下自动生成一个名为“压缩后”的文件夹，里面存放了所有加密压缩后的压缩包以及存放了每个压缩包解压密码的Excel文件。为了保险，可选择其中一两个压缩包进行解压测试，在确保能正常解压之后并可将原始文件删除，将加密后压缩包上传至网盘，仅需保存好相应的Excel文件即可。需要使用相应数据时，从网盘进行下载再用对应的解压密码解密即可。
 
+[阅读原文](https://mp.weixin.qq.com/s/qiOGpULE8qaNtNW3EievdA)
+
 <div align=center><img src="https://github.com/bashancode/Batch_encryption_and_compression_assistant_tool/blob/main/mainGUI.png" width="608" height="456"/></div>
